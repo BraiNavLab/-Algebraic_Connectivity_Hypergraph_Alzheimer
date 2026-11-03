@@ -1,0 +1,4 @@
+This folder contains the functions used in the main scripts.
+- Computation.py -> contains functions used for computing, such as hyperedge weights, statistical analysis, classification, and mediation analysis.
+- Normalization.py -> contains functions used for normalizing the data
+- Visualization.py -> contains functions for visualizing the data
